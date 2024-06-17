@@ -1,0 +1,15 @@
+.searchBoxContainer {
+  max-width: 400px;
+
+  margin: 0 auto;
+}
+
+.searchBoxInput {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #666;
+  background-color: #333;
+  color: #fff;
+  border-radius: 4px;
+}
