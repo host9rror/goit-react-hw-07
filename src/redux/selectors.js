@@ -1,4 +1,4 @@
-import { createSelector } from '/node_modules/.vite/deps/@reduxjs_toolkit.js?v=33bf2f70';
+import { createSelector } from "@reduxjs/toolkit";
 
 export const selectIsLoading = state => state.contacts.loading;
 export const selectError = state => state.contacts.error;
